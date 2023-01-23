@@ -15,14 +15,10 @@
 # Steps
   1. The original dataset was made of 25723 lines and 24 columns. After cleaning lines with over 22 null values in them, it was left with 6302 lines for the analysis.
   2. The 'fatal', 'sex' and 'age' columns were cleaned. Unwanted categories and specific errors that represented less than 1% of data were turned into nulls or replaced by a small correction.
-  
-  2.1 The 'fatal' column was left with 'y', 'n' and null values. 
-  
-  2.2 The 'sex' column was left with 'm', 'f' and null values.
-  
-  2.3 The 'age' columns was left with float and null values. If there were uncertain age values for a single person, the average of the values was used. If the record contained ages for more than a victim, each age turned into a different line and information from other columns were duplicated. The dataset ended up with 6332 lines.
-  
-  2.4 The 'age_groups' column was created to classify ages in the following intervals: 0-9, 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-87.
+  2.1. The 'fatal' column was left with 'y', 'n' and null values.  
+  2.2. The 'sex' column was left with 'm', 'f' and null values. 
+  2.3. The 'age' columns was left with float and null values. If there were uncertain age values for a single person, the average of the values was used. If the record contained ages for more than a victim, each age turned into a different line and information from other columns were duplicated. The dataset ended up with 6332 lines.
+  2.4. The 'age_groups' column was created to classify ages in the following intervals: 0-9, 10-19, 20-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80-87.
   3. Data frames were created to analyse the total values and percentages of categories for these columns: 'fatal', 'sex', 'age_groups', 'fatal X sex', 'fatal X age_groups'.
   4. The 'country' and the 'year' columns were grouped by the 'fatal' colum and the frequency of their values.   
 
