@@ -31,6 +31,6 @@
    - The top 10 years for fatal attacks since 1960 are 2000, 1944, 1993, 1942, 1964, 1962, 1966, 1963, 1954 and 1960
    
 # Contact
-  - LinkedIn: vanessadechen
-  - GitHub: /vdechen
-  - Email: vanessadechen@gmail.com
+  LinkedIn: vanessadechen
+  GitHub: /vdechen
+  Email: vanessadechen@gmail.com
