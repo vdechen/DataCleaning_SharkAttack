@@ -2,7 +2,7 @@
   Project status(Active)
   
 # Project Objective and Description
-  This data analysis aimed at cleaning the "Global Shark Attacks" dataset (https://www.kaggle.com/datasets/teajay/global-shark-attacks) in order to analyse the fatality incidence in the records and the profile of these fatal attacks considering the 'sex', 'age', 'country' and 'year' information provided. 
+  This project aimed at cleaning the "Global Shark Attacks" dataset (https://www.kaggle.com/datasets/teajay/global-shark-attacks) in order to analyse the fatality incidence in the records and the profile of these fatal attacks considering the 'sex', 'age', 'country' and 'year' information provided. 
   
 # Technologies 
   - Python
