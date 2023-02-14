@@ -27,7 +27,7 @@
    - Most attacks are not fatal (75.6% from 90.16% not nulls)
    - Most attacks involve male victims (88.9% from 90,95% not nulls)
    - The attacks frequency decreases with age increase, except for young children between 0-9 (from 54,4% not nulls)
-   - The mean age of the attacks was 27.4 years old (*****)
+   - The mean age of the attacks was 27.4 years old 
    - Most fatal cases happen among males (22.44% from 82,83% not nulls)
    - Most fatal cases happen among ages 10-29 (over 65% from 50,55% not nulls)
    - The top 10 countries for fatal attacks are Autralia, USA, South Africa, Papua New Guinea, Mexico, Brazil, Philippines, Reunion, New Zealand and Cuba
