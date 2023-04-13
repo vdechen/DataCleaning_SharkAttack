@@ -1,5 +1,6 @@
 # DataCleaning_SharkAttack
-  
+  ![shark_attack_cover](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/shark_attack_cover.png)
+ 
 # Project Goal and Description
   This project aimed at cleaning the "Global Shark Attacks" dataset (https://www.kaggle.com/datasets/teajay/global-shark-attacks) in order to analyze the fatality incidence in the records and the profile of these fatal attacks considering the 'sex', 'age', 'country' and 'year' information provided. 
   
