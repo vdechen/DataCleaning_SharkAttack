@@ -23,7 +23,13 @@
   From the lines of 6332 records: 
    - Most attacks are not fatal (75.6% from 90.16% not nulls)
    - Most fatal cases happen among males (22.44% from 82.83% not nulls)
+   
+   ![fatality_sex](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_sex.png)
+   
    - Most fatal cases happen among ages 10-29 (over 65% from 50.55% not nulls)
+   
+   ![fatality_age](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_age.png)
+   
    - The top 10 countries for fatal attacks are Australia, USA, South Africa, Papua New Guinea, Mexico, Brazil, Philippines, Reunion, New Zealand and Cuba
    - The top 10 years for fatal attacks since 1960 are 2000, 1944, 1993, 1942, 1964, 1962, 1966, 1963, 1954 and 1960
    
