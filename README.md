@@ -25,11 +25,14 @@
    - Most fatal cases happen among males (22.44% from 82.83% not nulls)
    
    ![fatality_sex](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_sex.png)
-   (r% = relative percentage; t% = total percentage)
+   
+   (t% = total percentage, compared to all cases; r% = relative percentage, compared to cases from that group)
    
    - Most fatal cases happen among ages 10-29 (over 65% from 50.55% not nulls)
    
    ![fatality_age](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_age.png)
+   
+   (t% = total percentage, compared to all cases; r% = relative percentage, compared to cases from that group)
    
    - The top 10 countries for fatal attacks are Australia, USA, South Africa, Papua New Guinea, Mexico, Brazil, Philippines, Reunion, New Zealand and Cuba
    
