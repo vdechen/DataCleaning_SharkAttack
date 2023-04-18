@@ -37,6 +37,8 @@
    - The top 10 countries for fatal attacks are Australia, USA, South Africa, Papua New Guinea, Mexico, Brazil, Philippines, Reunion, New Zealand and Cuba
    
       ![top10_countries](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_countries.png)
+      
+       (country X total number of cases)
    
    - The top 10 years for fatal attacks since 1960 are 2000, 1944, 1993, 1942, 1964, 1962, 1966, 1963, 1954 and 1960
    
