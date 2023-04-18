@@ -25,6 +25,7 @@
    - Most fatal cases happen among males (22.44% from 82.83% not nulls)
    
    ![fatality_sex](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_sex.png)
+   (r% = relative percentage; t% = total percentage)
    
    - Most fatal cases happen among ages 10-29 (over 65% from 50.55% not nulls)
    
