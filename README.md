@@ -24,25 +24,27 @@
    - Most attacks are not fatal (75.6% from 90.16% not nulls)
    - Most fatal cases happen among males (22.44% from 82.83% not nulls)
    
-   ![fatality_sex](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_sex.png)
+  ![fatality_sex](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_sex.png)
    
-   (t% = total percentage, compared to all cases; r% = relative percentage, compared to cases from that group)
+  (t% = total percentage, compared to all cases; r% = relative percentage, compared to cases from that group)
    
    - Most fatal cases happen among ages 10-29 (over 65% from 50.55% not nulls)
    
-   ![fatality_age](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_age.png)
+  ![fatality_age](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/fatality_age.png)
    
-   (t% = total percentage, compared to all cases; r% = relative percentage, compared to cases from that group)
+  (t% = total percentage, compared to all cases; r% = relative percentage, compared to cases from that group)
    
    - The top 10 countries for fatal attacks are Australia, USA, South Africa, Papua New Guinea, Mexico, Brazil, Philippines, Reunion, New Zealand and Cuba
-   
-      ![top10_countries](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_countries.png)
+  
+  ![top10_countries](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_countries.png)
       
-       (country X total number of cases)
-   
+  (Country X Total number of cases)
+           
    - The top 10 years for fatal attacks since 1960 are 2000, 1944, 1993, 1942, 1964, 1962, 1966, 1963, 1954 and 1960
    
-      ![top10_years](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_years.png)
+   ![top10_years](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_years.png)
+   
+   (Year X Total number of cases)
    
 # Contact
 - LinkedIn: vanessadechen
