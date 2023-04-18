@@ -38,13 +38,13 @@
   
   ![top10_countries](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_countries.png)
       
-  (Country X Total number of cases)
+  (country X total number of cases)
            
    - The top 10 years for fatal attacks since 1960 are 2000, 1944, 1993, 1942, 1964, 1962, 1966, 1963, 1954 and 1960
    
-   ![top10_years](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_years.png)
+  ![top10_years](https://raw.githubusercontent.com/vdechen/DataCleaning_SharkAttack/main/images/top10_years.png)
    
-   (Year X Total number of cases)
+  (year X total number of cases)
    
 # Contact
 - LinkedIn: vanessadechen
